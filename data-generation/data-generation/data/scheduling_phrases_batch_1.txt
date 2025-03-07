@@ -1,0 +1,1000 @@
+mon 11:30am
+thu 4:15am-5:15am
+thu 8pm 1hr
+wed 3:30pm-4:30pm
+mon 12am rem 15 mins before
+every wed 1:15am
+every sun 2:15am
+sun 5pm-6pm
+every thu 4:30pm
+every third mon 12pm
+every other sat 8:30pm
+mon 11:45pm rem 15 mins before
+tue 7:45pm
+wed 11:15pm-12:15am
+sun 5:45am
+tue 4:15pm
+thu 4:30pm-5:30pm
+every other thu 11am
+every fri 6:15am
+wed 5:45am 1hr
+mon 11:30pm rem 15 mins before
+sun 2:45pm 30mins
+every other tue 5:30pm
+every other sat 8:15am
+tue 5:15am
+every third thu 2pm
+thu 11:30am
+every sat 10:30am
+sun 2:45am
+fri 5:45am rem 15 mins before
+sat 1:45pm 30mins
+every other wed 3am
+mon 8:45am-9:45am
+sun 7:30am 1hr
+sun 6:30am
+sun 3:15am 30mins
+mon 4:45pm 1hr
+mon 10:45am-11:45am
+sun 5:30am 1hr
+thu 5am-6am
+every third sun 12:30am
+thu 9:15am-10:15am
+every fri 7:45pm
+mon 2:15am rem 15 mins before
+mon 1:30am
+every third thu 1:30pm
+every third sun 2:15pm
+tue 5:45pm-6:45pm
+sat 3:15pm
+wed 2pm 1hr
+wed 10:15pm
+fri 11:15am
+every other fri 1:45pm
+every third mon 10pm
+sat 9:45am-10:45am
+sat 5:45am 30mins
+every third fri 10:45pm
+sat 7am
+sun 4:30pm-5:30pm
+every other fri 7:45pm
+tue 6:15pm rem 15 mins before
+tue 7pm rem 15 mins before
+every third thu 2:15pm
+every third mon 1:45pm
+every fri 8:30pm
+thu 7:30pm 1hr
+every thu 12:45pm
+sun 3:45pm-4:45pm
+sat 3:30pm 1hr
+every fri 7:45pm
+every third tue 3:15pm
+every other tue 11:45am
+sun 10:15am 30mins
+mon 1:15pm
+wed 6:15pm 30mins
+every mon 10:45pm
+sun 7:15pm 30mins
+mon 7:15pm 1hr
+mon 7:15am 1hr
+every third wed 11:30pm
+thu 7:45am rem 15 mins before
+wed 2pm 1hr
+sun 1:30am-2:30am
+every other mon 9:30pm
+sat 8pm 1hr
+every other sun 8:30am
+mon 6:30pm rem 15 mins before
+thu 2:15pm rem 15 mins before
+fri 9:15am 30mins
+tue 4:30pm
+mon 9:45pm-10:45pm
+wed 5pm rem 15 mins before
+sun 7:30pm rem 15 mins before
+tue 10:30am
+every other tue 7am
+mon 11:15pm 1hr
+sat 6:45am 30mins
+fri 4:15pm rem 15 mins before
+thu 7:30pm 30mins
+sun 2:15am 30mins
+every mon 10:30am
+wed 2:45pm-3:45pm
+every third wed 3:45am
+wed 4:30am-5:30am
+mon 3:15pm-4:15pm
+sat 3:45pm 30mins
+every sun 1:30pm
+sat 7pm 1hr
+mon 5:45pm-6:45pm
+every other thu 6am
+every third thu 5am
+every other thu 3pm
+every third fri 6am
+mon 6:15am-7:15am
+wed 2am 30mins
+every other thu 6:15am
+mon 8:45am
+sat 8:45pm
+fri 12am 30mins
+sun 3:15pm
+sat 9:45am
+sat 5:30pm rem 15 mins before
+every sat 4:45pm
+wed 9:15am 30mins
+thu 12am
+every other fri 2:45pm
+every other sun 10:45pm
+sat 6:30pm-7:30pm
+every third mon 3:45pm
+thu 4:15am 30mins
+sat 1:15pm 1hr
+every other sun 5pm
+fri 1am-2am
+wed 7:45pm
+fri 11pm
+wed 11:15am
+every third mon 1:15am
+every other tue 5am
+sun 11:45pm rem 15 mins before
+thu 6:30pm 1hr
+every third thu 12pm
+every wed 9am
+sat 6pm 1hr
+wed 6:45am
+every fri 1:15pm
+mon 9:30am 1hr
+thu 8pm 30mins
+every third mon 9pm
+every sat 6:15am
+tue 8:15am
+every third tue 1:45pm
+every tue 12:45am
+every other sat 5:30pm
+every third wed 5pm
+fri 6:30am 30mins
+every thu 10:45pm
+every third tue 6pm
+sun 5:45am-6:45am
+thu 10:15am rem 15 mins before
+mon 9:15am
+every other sun 8:30am
+sat 5:30am 1hr
+mon 5:30pm rem 15 mins before
+wed 6:15am 30mins
+every third tue 9:30am
+sat 6:45pm 30mins
+mon 12:30am rem 15 mins before
+every thu 12:45am
+wed 4:45pm-5:45pm
+sat 9:30pm rem 15 mins before
+mon 2:15pm 1hr
+sun 6pm-7pm
+every sun 9pm
+every fri 6pm
+mon 8:15pm
+sun 7:45am-8:45am
+sun 5:15pm rem 15 mins before
+sun 12am
+every other mon 9:30pm
+every third thu 9:30pm
+tue 9:45am
+tue 5am
+sat 11am
+every fri 10:45pm
+sat 8:15pm
+sun 9:45am
+sat 1:30pm
+thu 9pm 1hr
+tue 10am 1hr
+every third sun 9pm
+sat 2:45am rem 15 mins before
+every other fri 10:30am
+tue 3:30pm-4:30pm
+sun 10:15am-11:15am
+every sun 3pm
+every wed 8am
+every other thu 4am
+mon 7:30pm-8:30pm
+sat 9:45am 1hr
+sun 3:15pm rem 15 mins before
+sun 7:30pm rem 15 mins before
+fri 5:15pm
+tue 2:15pm 1hr
+every other mon 2pm
+sun 6:15pm 1hr
+every mon 1:45am
+every other tue 3am
+every tue 4:30pm
+thu 1am
+every other wed 8:45pm
+every wed 4:30am
+sat 9:30pm-10:30pm
+every third mon 1:15pm
+every third fri 12:15am
+mon 11:30pm 30mins
+mon 5:15pm-6:15pm
+wed 9:30am-10:30am
+thu 1:15pm rem 15 mins before
+fri 2:45am rem 15 mins before
+every other tue 5:45pm
+sat 2:15am 1hr
+every third wed 3:15pm
+wed 5am-6am
+mon 7:30am 1hr
+fri 5:45pm-6:45pm
+wed 9:30pm rem 15 mins before
+every other thu 2:45pm
+tue 1:15am rem 15 mins before
+every wed 5:45pm
+every third thu 10pm
+mon 12:45pm
+tue 10:15am 1hr
+fri 1:30am 1hr
+thu 5:45pm-6:45pm
+wed 12:30pm 1hr
+every third tue 3am
+fri 5:30am
+thu 6:30pm
+every other tue 1:30pm
+thu 6:45am 30mins
+fri 12:45am rem 15 mins before
+thu 9:45am-10:45am
+thu 11:15pm rem 15 mins before
+sat 5:30pm 1hr
+fri 10:45pm 1hr
+fri 5:30am-6:30am
+thu 5:15am 1hr
+sun 2am 30mins
+tue 10pm rem 15 mins before
+thu 7:30am 30mins
+every tue 4:45pm
+every other sun 2:45pm
+fri 2am 1hr
+tue 6:45pm 1hr
+every other tue 1:15pm
+thu 8:45pm-9:45pm
+fri 4:30pm 1hr
+every sun 2:30pm
+every thu 4:15am
+every other thu 1am
+every other sun 6:15am
+every other fri 4am
+every other mon 4:45pm
+every other sat 6pm
+tue 3:45am
+mon 1:45pm-2:45pm
+every third sat 12:45pm
+fri 1:45pm 1hr
+fri 9:15pm
+every third tue 2:15pm
+thu 7pm-8pm
+fri 2:30pm 1hr
+every third fri 5:45am
+every wed 12:45pm
+every sun 7:30pm
+sun 2:15am 30mins
+every tue 10:15am
+every third wed 2pm
+sat 6am 30mins
+sat 4:45pm 1hr
+wed 3:45am 1hr
+mon 8pm 30mins
+wed 1:30pm
+fri 10:45pm 1hr
+tue 8:15am 1hr
+thu 1:45pm rem 15 mins before
+sat 10am 1hr
+tue 8:45am-9:45am
+thu 2am-3am
+thu 9:45pm-10:45pm
+mon 5:45pm 30mins
+every third thu 4:30pm
+tue 8pm-9pm
+mon 3am rem 15 mins before
+wed 5:15pm rem 15 mins before
+mon 6:45pm
+every third sun 7:45am
+tue 5:30pm
+wed 12pm 30mins
+mon 12:45am rem 15 mins before
+every other wed 6am
+thu 4pm 30mins
+sat 4:45pm
+every other sun 2am
+sat 2:45pm-3:45pm
+thu 5:15am 30mins
+thu 2:45pm 1hr
+every thu 3pm
+thu 8:15am
+every tue 11:30pm
+every tue 8:15pm
+every sat 10:15am
+every third sat 1:15am
+tue 10:30pm-11:30pm
+every other sun 1:30pm
+sat 11am-12pm
+every third sun 9am
+every third fri 12:45pm
+sat 12:45pm rem 15 mins before
+every other mon 10:30pm
+every other thu 1:30am
+every fri 8:30am
+every fri 9:45am
+every third wed 2:30am
+tue 11am
+fri 2:30pm-3:30pm
+wed 7:15am 1hr
+tue 5:15am
+sun 8pm
+fri 9am 1hr
+wed 5:15pm
+tue 7:45pm 30mins
+every third tue 3am
+sun 6am 30mins
+every other sat 3:45pm
+every third fri 2am
+every other sun 11:15pm
+sat 4:15pm 1hr
+every other fri 7pm
+tue 7:30am 1hr
+wed 4:15am 30mins
+sun 1pm 30mins
+every thu 7:15pm
+every third sun 10am
+tue 3:30pm 30mins
+thu 9:15am-10:15am
+every other sun 2am
+sat 4:30pm-5:30pm
+every third tue 6am
+every other tue 9pm
+tue 10am 30mins
+sat 7:30am-8:30am
+mon 11:30pm 30mins
+tue 4:45am
+sat 12:45am
+every third sat 3:30pm
+sun 3:15am 1hr
+every third tue 5:30pm
+every third sun 3:30am
+mon 8pm 30mins
+every other mon 2:30pm
+tue 4:30pm 30mins
+fri 4:15am 1hr
+mon 3:30am 30mins
+sun 12pm rem 15 mins before
+tue 8:15am 30mins
+tue 1:30am rem 15 mins before
+wed 1:15am 1hr
+sun 6am 30mins
+every third sat 11:30pm
+every other sat 3:45pm
+every other thu 7:30pm
+fri 12:45pm rem 15 mins before
+wed 10:45am 30mins
+tue 11am-12pm
+sat 4:15pm rem 15 mins before
+every third sat 2pm
+sun 10:45pm-11:45pm
+mon 11:15am-12:15pm
+thu 4am rem 15 mins before
+tue 3:15pm-4:15pm
+every wed 10am
+mon 1:45pm 1hr
+sun 2:30pm 30mins
+mon 11:30am 30mins
+every other tue 5:15am
+every third tue 5am
+every fri 12pm
+every third tue 5:30am
+sun 3pm
+every sun 10:15am
+every mon 4:15am
+every third wed 3:45pm
+every tue 4:30pm
+wed 8:30am 1hr
+sun 6:15pm
+every third mon 4:15pm
+sat 9:45am 1hr
+tue 7:15am rem 15 mins before
+tue 10:30am 30mins
+every wed 7:15am
+sat 11:30am 1hr
+sat 3:30pm-4:30pm
+mon 5:30am 1hr
+tue 4:30pm
+every third mon 10pm
+every other tue 4:30am
+wed 11:30pm rem 15 mins before
+thu 6:15pm rem 15 mins before
+mon 2:30pm 1hr
+every third wed 2:30pm
+every other tue 2pm
+every fri 1:30am
+sat 3:45am 30mins
+every other thu 1:30pm
+wed 9am
+sun 1:45pm 30mins
+thu 6:45am-7:45am
+fri 11:45am rem 15 mins before
+wed 6:45am 1hr
+sat 6:45am rem 15 mins before
+wed 6pm
+thu 10:30am 1hr
+every third mon 3pm
+tue 1pm
+mon 2pm 30mins
+wed 10:30am 1hr
+fri 10pm
+thu 6pm 30mins
+every tue 12:15pm
+mon 6:30am 30mins
+every third fri 11:15pm
+tue 2:30pm rem 15 mins before
+tue 3pm rem 15 mins before
+sat 5:45am-6:45am
+thu 11:15pm
+thu 11:45pm 1hr
+thu 2:15am rem 15 mins before
+every third sat 2:30pm
+fri 7pm 1hr
+every third mon 7:45pm
+sun 10:15pm rem 15 mins before
+every other thu 12:15am
+thu 6:45am 30mins
+sat 9:45am rem 15 mins before
+every third tue 3:45am
+tue 7:45am 30mins
+tue 7:15am 30mins
+fri 10:45pm rem 15 mins before
+every fri 6am
+fri 2:15pm-3:15pm
+fri 11pm 30mins
+thu 4pm 1hr
+thu 5:15pm 30mins
+fri 5:45am rem 15 mins before
+every other wed 10:45pm
+every third tue 1am
+every other sat 9:45pm
+mon 7am
+every third tue 10:30am
+fri 2:45am rem 15 mins before
+sat 5:45am
+sun 8:30am 30mins
+every other thu 4:15am
+fri 10:45am-11:45am
+every sat 3:30pm
+sat 6:45pm 30mins
+mon 2:45pm
+wed 12:45pm 1hr
+every other sat 5:45pm
+wed 9:15pm 1hr
+mon 7:30am-8:30am
+every other wed 3:15pm
+every third tue 5:45am
+fri 1:15am rem 15 mins before
+fri 6pm 30mins
+every third sat 8:15am
+fri 10am rem 15 mins before
+thu 9:30am
+every tue 12:30pm
+fri 6am 1hr
+wed 7pm 30mins
+sat 3:30am 1hr
+sat 4am 30mins
+every other sat 12:15pm
+every third thu 6:45pm
+every thu 7:15pm
+sun 4pm
+mon 2pm 1hr
+wed 3:15pm 1hr
+mon 7am
+mon 1pm rem 15 mins before
+wed 12am-1am
+every other mon 8:30am
+every third wed 7pm
+every thu 7:45am
+every wed 6am
+every sun 2pm
+every other wed 11pm
+sun 12:15pm-1:15pm
+tue 7am
+tue 7am 30mins
+mon 5:45pm 30mins
+every third fri 5:30am
+mon 9:30pm 30mins
+every sun 5:15am
+sun 6:15pm 1hr
+thu 6:45am 30mins
+sat 5:30pm
+every third wed 5:45am
+tue 8:45am rem 15 mins before
+every third sat 6:30pm
+every other thu 11:30pm
+every sat 7am
+thu 4:15pm rem 15 mins before
+fri 5:45pm rem 15 mins before
+fri 2pm 1hr
+wed 9:45pm 1hr
+every third thu 6:30am
+every third sun 2am
+thu 5:30pm rem 15 mins before
+every other tue 2:15pm
+mon 12:45pm
+sat 1:45pm 1hr
+every mon 6:15am
+mon 2am
+sun 2:45pm rem 15 mins before
+thu 9am-10am
+every third thu 2:15pm
+every other mon 1:30pm
+every other mon 6am
+fri 10:45pm
+every third wed 5am
+thu 9:15am rem 15 mins before
+every other tue 3:30am
+every sun 7:15pm
+mon 11pm 30mins
+every mon 6:15pm
+fri 5:45am 30mins
+sat 1am 1hr
+sun 7:45am
+every mon 7am
+thu 7am 30mins
+every sun 2:30am
+every fri 6:45pm
+every third wed 10:15am
+every third sun 6:15am
+fri 6:45pm 30mins
+wed 7:45pm
+tue 2:30am 30mins
+fri 8:45pm 30mins
+thu 6:15pm rem 15 mins before
+sun 11am 30mins
+fri 10:15pm rem 15 mins before
+every third fri 2pm
+sat 4am-5am
+every fri 5:30pm
+mon 4:15pm-5:15pm
+sun 11:30pm
+wed 8:45pm-9:45pm
+sat 12pm
+every other sat 12:15pm
+fri 9:15am 30mins
+every thu 4:45am
+every other thu 6:15pm
+every other tue 11:30am
+mon 6:15am
+wed 8pm 30mins
+every third wed 7:45pm
+every third sat 3am
+tue 9:15am 30mins
+thu 1:45am
+mon 1:45pm-2:45pm
+every other mon 4:30pm
+every other wed 5:30pm
+mon 8:45pm 1hr
+every other wed 5:30am
+every other sun 7pm
+every third wed 10:45pm
+mon 6pm-7pm
+mon 2:30am-3:30am
+fri 3am 30mins
+every other sun 7:30am
+wed 12am 1hr
+mon 12:30pm 30mins
+fri 1am 30mins
+every mon 2:15am
+sun 1:15am
+every other sun 1am
+mon 12:45am
+every third wed 9:45am
+mon 3:15am 30mins
+every other sun 4:30am
+fri 1:30pm 1hr
+every third sun 5:30pm
+every wed 9pm
+sun 7:15am 30mins
+fri 8:30pm-9:30pm
+sun 10:30pm 30mins
+wed 6:45am 30mins
+fri 9pm rem 15 mins before
+sat 8:30am rem 15 mins before
+every other wed 2:15pm
+every third wed 6:30am
+sat 12:30pm-1:30pm
+tue 12:45am
+every thu 11pm
+every fri 12:30am
+sun 5:15am 1hr
+every other sat 9:15am
+mon 3pm-4pm
+wed 8pm
+mon 8am-9am
+mon 4:15pm
+thu 11:45pm 1hr
+every other wed 1:45pm
+every third tue 11am
+fri 5:30pm 30mins
+every other sat 12:30am
+fri 4:30pm-5:30pm
+sat 4:30am rem 15 mins before
+mon 12am 1hr
+sun 12:30am 30mins
+every third sat 10:45pm
+fri 3:15am rem 15 mins before
+every other wed 11:45am
+thu 10:15pm 30mins
+every other sat 11:15pm
+sat 11:45pm
+mon 12:45pm
+sun 8:30pm rem 15 mins before
+every other wed 2pm
+fri 11:45pm 1hr
+sun 12:30am 1hr
+thu 10:30pm 1hr
+sun 7pm-8pm
+sat 9:15am rem 15 mins before
+every third wed 3:45pm
+every third sat 8:30pm
+thu 10:45am-11:45am
+thu 12:15pm
+fri 11:30am-12:30pm
+fri 2:15pm
+every third fri 10:30am
+sun 5:45pm 30mins
+every wed 8:15am
+fri 5:45am 30mins
+every tue 10:45pm
+every third thu 9:45am
+every third mon 7pm
+tue 8am 30mins
+thu 11:30am-12:30pm
+every third fri 9:30pm
+every other wed 5pm
+mon 2:30pm
+fri 5:45am-6:45am
+tue 10:30am 1hr
+every tue 1am
+thu 4:30pm-5:30pm
+sat 2pm rem 15 mins before
+tue 6:45pm 1hr
+every third tue 7:15pm
+every third sun 1am
+every third fri 6:15pm
+every sat 8:30am
+tue 11:30pm rem 15 mins before
+fri 5:15am
+mon 1pm-2pm
+every third thu 12:15pm
+every other fri 4am
+every other thu 7:45am
+every third mon 9:45am
+sun 5:45am rem 15 mins before
+mon 1:15pm 1hr
+sat 3:45pm-4:45pm
+every sun 3:30pm
+mon 12:30pm 1hr
+every other mon 5:45pm
+tue 7:45pm-8:45pm
+wed 12:45am
+every other sun 9pm
+wed 6:30am rem 15 mins before
+sat 1:45am-2:45am
+sat 5:30pm 30mins
+thu 8:15pm rem 15 mins before
+every thu 10:30am
+tue 3:15pm-4:15pm
+thu 12am 30mins
+tue 10:45pm rem 15 mins before
+every other sat 6:30am
+sun 8:30am rem 15 mins before
+every other sun 2:15pm
+every third thu 5:45am
+thu 5:30pm rem 15 mins before
+every other mon 10am
+every third thu 12:30pm
+tue 4am 1hr
+tue 11pm
+sat 7:15pm 1hr
+sat 6:45pm
+every third mon 11am
+tue 9:30pm-10:30pm
+every tue 4:15pm
+sat 1:30pm
+every mon 1pm
+thu 2:30pm 30mins
+every other thu 7:45pm
+every third sat 6pm
+wed 2:30am-3:30am
+sat 2am 30mins
+tue 6:45am 1hr
+mon 1:45pm
+every wed 5:45pm
+sun 10pm 30mins
+every third sun 12am
+every third sun 10:15am
+tue 5:45am-6:45am
+every other sat 1:30am
+wed 12:45pm rem 15 mins before
+every other sat 11:45am
+tue 10pm-11pm
+tue 7pm rem 15 mins before
+sat 7:30am rem 15 mins before
+wed 7:45am
+every sat 2:30am
+tue 6:30am rem 15 mins before
+every third sun 12:15pm
+sun 7:30am-8:30am
+sat 2am 30mins
+every third thu 6:15am
+mon 7:30pm 1hr
+every third fri 3:45am
+sun 1:30pm 30mins
+thu 10:45am 1hr
+tue 4:45am rem 15 mins before
+every wed 1:45pm
+sat 7:15am 1hr
+wed 11:30am rem 15 mins before
+every other sat 7:15pm
+every other sun 11:30pm
+tue 12:30pm
+thu 9:30am
+every third thu 2am
+every other mon 8:15pm
+every third tue 12pm
+sat 3am-4am
+every mon 9:45am
+tue 6:45pm-7:45pm
+sun 5am rem 15 mins before
+wed 12:45am
+mon 10:30pm
+wed 1:15am 30mins
+sun 10pm-11pm
+every other mon 6am
+sat 10:30pm-11:30pm
+mon 10:30am
+tue 3pm
+every sat 11am
+fri 12:15am
+every mon 7am
+every other fri 4:30am
+sat 4:30am
+mon 12:45pm
+sun 6am-7am
+every third sat 3am
+every thu 1:45am
+thu 7am 30mins
+fri 2:30am 30mins
+every other wed 7:45am
+every thu 12pm
+sat 6:30am
+thu 7:45pm-8:45pm
+tue 5pm 30mins
+every thu 11:15am
+fri 7:30am 1hr
+sat 3:30pm 30mins
+thu 4am 30mins
+every third thu 8pm
+every other wed 6:30pm
+every sun 9:15pm
+every other thu 10:30am
+every other mon 1:30am
+tue 12:45pm rem 15 mins before
+every third sun 5:45am
+fri 5:45pm-6:45pm
+every sat 7:30am
+every third sat 1:45pm
+thu 8:15pm
+thu 6:15am 1hr
+fri 6:15am-7:15am
+tue 11pm 1hr
+mon 12pm 30mins
+wed 5:30am 30mins
+mon 3:30am 1hr
+sat 2pm rem 15 mins before
+mon 2am rem 15 mins before
+every sat 9:15am
+wed 6:15am
+sat 11:15pm-12:15am
+every other sat 7:15am
+wed 4am-5am
+thu 8:45am 1hr
+fri 10:15pm rem 15 mins before
+fri 4:30am
+every mon 4:45am
+mon 6:30am rem 15 mins before
+every third sun 1:15am
+tue 8am
+every third tue 5:45am
+tue 10:30pm
+every fri 5:30am
+mon 7:45pm 1hr
+every sun 11:45pm
+every third sun 11:45pm
+tue 11:45am 1hr
+sun 5:30am rem 15 mins before
+thu 2:30am 30mins
+every thu 3:45am
+every wed 12:15pm
+mon 5:15am-6:15am
+every other sun 10pm
+fri 4pm rem 15 mins before
+every third sat 9:45am
+fri 3:45am 1hr
+sat 2:45am
+wed 9:30am-10:30am
+every sun 9pm
+thu 3am 1hr
+fri 8:45pm rem 15 mins before
+tue 6:15am
+tue 2:45am 30mins
+fri 9:15pm
+thu 1:15pm
+every third thu 3:30pm
+sat 2:45pm rem 15 mins before
+every other wed 8:30am
+wed 8pm rem 15 mins before
+sat 2:45am rem 15 mins before
+sat 1:15am
+every other sun 6am
+wed 3:15am
+every third wed 8:15pm
+sun 2:30am rem 15 mins before
+every thu 6:30pm
+wed 7:45pm 30mins
+tue 1:45am 1hr
+sat 7am
+every other sun 1:45am
+every other tue 11:30am
+wed 6:30pm 30mins
+sat 7:45pm rem 15 mins before
+sun 3:15am 1hr
+every thu 5am
+every other sat 8:30pm
+tue 2:15am
+mon 1pm
+every other tue 1:15pm
+sat 4:15pm rem 15 mins before
+wed 1am
+every third sun 4:45am
+tue 1:30am-2:30am
+every third sun 3:15am
+fri 1:30pm
+every third wed 11:30am
+tue 8:30pm
+sat 8:45pm rem 15 mins before
+sat 4:30am rem 15 mins before
+sat 12pm rem 15 mins before
+sat 6:45am rem 15 mins before
+every other tue 10:45am
+every fri 8:30pm
+fri 10:45pm-11:45pm
+every tue 4pm
+every third mon 11pm
+every thu 9:15pm
+every third sat 2:30pm
+fri 10:15am 1hr
+wed 3:30am rem 15 mins before
+thu 2:45pm rem 15 mins before
+tue 4am
+fri 10:45pm
+every other sun 3pm
+tue 11:15am
+wed 4:45am rem 15 mins before
+mon 4:30pm rem 15 mins before
+tue 6:15pm rem 15 mins before
+sun 2:30pm rem 15 mins before
+every other thu 7:45am
+every third tue 2:15am
+every other sat 3:45am
+every other thu 8:15am
+thu 7:30pm
+sat 9am rem 15 mins before
+sat 11pm rem 15 mins before
+thu 4am-5am
+every other fri 10:45am
+tue 2:45pm
+wed 5am 1hr
+tue 1:30pm 1hr
+tue 8am rem 15 mins before
+every other fri 1am
+tue 9:15pm-10:15pm
+tue 5:30am 1hr
+fri 5:45am 1hr
+sun 6:30am 1hr
+fri 6:30am 30mins
+mon 9pm 30mins
+thu 5:30am-6:30am
+thu 7:45pm 30mins
+every third tue 12am
+fri 11:45am-12:45pm
+every sat 8:30am
+every third sat 9:30pm
+every other mon 3:30am
+every tue 1:45am
+every third wed 12:30pm
+wed 1am-2am
+every third mon 7:15pm
+sat 5:30am
+tue 11:45pm-12:45am
+sun 12:30am rem 15 mins before
+every fri 11:30am
+sun 3:45am 1hr
+every wed 4:15am
+sun 11:45am 30mins
+thu 4:30pm-5:30pm
+fri 10pm-11pm
+every other sun 9:30pm
+every other sun 4am
+every third tue 3:45am
+sun 9:45pm-10:45pm
+every other sun 4am
+every other mon 6:15pm
+every tue 12:30am
+mon 1:15am 1hr
+every tue 2:30am
+sat 11:15am 1hr
+every other sun 6:15pm
+sun 5:45am-6:45am
+every third sat 5:45pm
+sun 4pm rem 15 mins before
+every sat 9:30pm
+thu 9:15pm 30mins
+mon 7:45am 1hr
+sun 1:45am
+every other mon 9:30pm
+thu 7pm 1hr
+wed 12:30am 30mins
+thu 10:30am 30mins
+sun 9:45pm 1hr
+mon 6:30am rem 15 mins before
+mon 1:30am rem 15 mins before
+every other thu 12:45pm
+every other mon 4:15pm
+every sat 9am
+tue 4:30pm 1hr
+every other wed 11pm
+sat 11:30pm rem 15 mins before
+wed 12:15pm
+sat 7:30pm
+mon 12:15pm 30mins
+every other wed 1:45am
+every wed 10:15am
+every sat 5:45pm
+thu 5:30pm
+fri 8:30pm
+sat 10:30am rem 15 mins before
+fri 7:30am 30mins
+every mon 10pm
+every tue 11:30pm
+sun 9:15am rem 15 mins before
+every third sun 1:45am
+every third fri 12am
+wed 7:45pm rem 15 mins before
+every other wed 12:15am
+sat 10pm rem 15 mins before
+every sat 4:45pm
+every other mon 6:45am
+sat 2pm-3pm
+every third tue 1:30pm
+every third sat 8am
+mon 9:30pm 30mins
+every other thu 12:15am
+tue 6:15pm rem 15 mins before
+fri 5:15pm-6:15pm
+wed 12:30pm
+every other mon 10:15pm
+tue 1pm 1hr
+every other mon 8:45pm
+wed 3am 1hr
+every other wed 4:30am
+sat 10:45pm
+wed 10am 30mins
+sat 10pm 30mins
+every third wed 9:45pm
+sun 5:15pm
+tue 10:45am 30mins
+every third wed 2:15am
+every other sun 4:45am
+sun 12:45am rem 15 mins before

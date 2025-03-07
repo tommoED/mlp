@@ -1,0 +1,574 @@
+Context:
+    Reference Date: Tuesday 2025-02-18 17:45,
+    Language: English UK;
+    Phrase: every tues 3-4pm MLP tutorial
+Result:
+    SUMMARY:MLP Tutorial
+    RRULE:FREQ=WEEKLY;BYDAY=TU;
+    DTSTART:20250214T150000
+    DTEND:20250214T160000
+
+Context:
+    Reference Date: Tuesday 2021-07-20 14:40,
+    Language: English UK;
+    Phrase: every mon 9am team standup meeting
+Result:
+    SUMMARY:Team Standup meeting
+    RRULE:FREQ=WEEKLY;BYDAY=MO;
+    DTSTART:20210726T090000
+    DTEND:20210726T093000
+
+Context:
+    Reference Date: Thursday 2024-04-04 02:07,
+    Language: English UK;
+    Phrase: fri 3pm rem 15 mins before doctor appointment
+Result:
+    SUMMARY:Doctor appointment
+    DTSTART:20240405T150000
+    DTEND:20240405T163000
+    ALARM:TRIGGER:-PT15M
+
+Context:
+    Reference Date: Tuesday 2024-04-02 14:40,
+    Language: English UK;
+    Phrase: every other sat 10-12pm guitar lessons
+Result:
+    SUMMARY:Guitar lessons
+    RRULE:FREQ=WEEKLY;BYDAY=SA;INTERVAL=2;
+    DTSTART:20240406T100000
+    DTEND:20240406T120000
+
+Context:    
+    Reference Date: Thursday 2024-04-04 13:30,
+    Language: English UK;
+    Phrase: thurs 1:30pm 1.5hrs project review
+Result:
+    SUMMARY:Project review
+    DTSTART:20240404T133000
+    DURATION:PT1H30M
+
+Context:
+    Reference Date: Tuesday 2024-04-02 14:40,
+    Language: English UK;
+    Phrase: every tues 11am 30mins 1:1 with manager
+Result:
+    SUMMARY:1:1 with manager
+    DTSTART:20240402T110000
+    DURATION:PT30M
+
+Context:
+    Reference Date: Sunday 2024-04-07 10:00,
+    Language: English UK;
+    Phrase: sun 9am-12pm 3hrs garden cleanup
+Result:
+    SUMMARY:Garden cleanup
+    DTSTART:20240407T090000
+    DURATION:PT3H
+
+Context:
+    Reference Date: Friday 2024-04-05 14:00,
+    Language: English UK;
+    Phrase: every third fri 4pm rem 1hr before dinner reservation
+Result:
+    SUMMARY:Dinner reservation
+    RRULE:FREQ=WEEKLY;BYDAY=FR;INTERVAL=3;
+    DTSTART:20240412T160000
+    ALARM:TRIGGER:-PT1H
+
+Context:
+    Reference Date: Monday 2024-04-08 08:30,
+    Language: English UK;
+    Phrase: mon 8:30am 45mins meditation session
+Result:
+    SUMMARY:Meditation session
+    DTSTART:20240408T083000
+    DURATION:PT45M
+
+Context:
+    Reference Date: Wednesday 2024-04-10 16:00,
+wed 2-4pm client workshop prep
+every tues 11am 30mins 1:1 with manager
+sun 9am-12pm 3hrs garden cleanup
+every third fri 4pm rem 1hr before dinner reservation
+mon 8:30am 45mins meditation session
+every other wed 6-7pm yoga class
+sat 10am re 20 mins before vet visit
+every thurs 2pm 2hrs coding bootcamp
+fri 7-9pm movie night with friends
+tues 3:30pm 1hr physio therapy
+every sun 8am 1hr dog walking
+wed 1-4pm 3hrs conference call
+every other mon 10am re 10 mins before sprint planning
+sat 9-11am 2hrs grocery shopping
+every fri 5pm happy hour drinks
+thurs 8am 1hr breakfast meeting
+every other sun 7pm 1hr language exchange
+fri 12-1pm re 5 mins before lunch interview
+sat 8am 3hrs marathon training run
+tues 7pm 1hr virtual cooking class
+every wed 12pm client check-in
+fri 10-11am re 10 mins before team sync
+every other sat 2pm 2hrs park picnic
+sun 3pm 1.5hrs book reading session
+thurs 6:30pm re 15 mins before gym workout
+mon 9-10am project brainstorming
+every third fri 5pm 1hr language lesson
+tues 11am 1hr mentoring session
+wed 7-9pm coding hackathon
+every sat 8am morning run
+thurs 3:30pm 45mins coffee catch-up
+fri 2pm art workshop
+every mon 4-5pm creative writing class
+sun 11am 2hrs family brunch
+every other wed 8pm live music event
+tues 6-7pm online webinar
+fri 12pm 1hr mindfulness meditation
+sat 3pm re 10 mins before craft workshop
+mon 2pm 1.5hrs product demo
+every thurs 9am morning yoga
+every fri 3pm 1hr team retrospective
+mon 10:30am 45mins code review
+tues 2-4pm client consultation
+every other sat 1pm 2hrs painting class
+wed 8:30am rem 20 mins before dental cleaning
+thurs 5-6:30pm yoga workshop
+every third sun 11am 1.5hrs cooking class
+fri 1pm re 15 mins before team presentation
+sat 7am 2hrs mountain hiking
+every mon 12-1pm lunch meditation
+tues 9am 1hr project planning
+wed 4:30pm re 10 mins before therapy session
+every other thurs 7pm 2hrs dance class
+fri 11am-1pm database training
+sun 10am 1hr weekly meal prep
+every sat 2pm rem 30 mins before piano lesson
+mon 3-5pm strategy workshop
+tues 6pm 1hr virtual meetup
+every third wed 8pm language exchange
+thurs 1pm re 25 mins before client meeting
+fri 9am 2hrs market research
+every other sat 4pm 1.5hrs art gallery visit
+sun 2-4pm garden maintenance
+mon 7pm rem 15 mins before online class
+every tues 10am 45mins team sync
+wed 12:30pm 1hr mentoring session
+thurs 3-5pm product testing
+every fri 6pm 2hrs game night
+sat 8:30am re 20 mins before gym class
+next wed 3pm 1hr team meeting
+next mon 9:30am project kickoff
+next fri 2pm 2hrs workshop
+next tues 11am client presentation
+next thurs 4-5:30pm strategy session
+next sat 10am-12pm coding sprint
+next jul 4 7pm fireworks show
+next dec 25 9am gift exchange
+next oct 31 6pm halloween party
+next mar 15 2pm quarterly review
+minecraft birthday party next mar 4
+next aug 15 2pm car maintenance
+laser tag party next apr 20
+next feb 1 10am vehicle inspection
+bowling celebration next sept 12
+next jan 7 11am tire rotation
+pizza making party next may 25
+mechanic assessment next nov 8
+pool party next mar 14
+next jul 30 1pm ac service
+arcade birthday next oct 5
+next dec 18 3pm winter maintenance
+dinosaur themed party next jun 22
+next feb 28 2pm suspension check
+science experiment party next aug 9
+next apr 15 1:30pm brake fluid change
+costume party next nov 30
+next jan 12 3:30pm radiator flush
+gaming tournament party next may 8
+next sept 25 11am belt inspection
+halloween 6pm trick or treating
+christmas 9am gift opening
+thanksgiving 2pm family dinner
+new years eve 8pm-12am celebration
+easter 11am egg hunt
+valentines day 7pm romantic dinner
+mothers day 10am brunch
+fathers day 1pm bbq
+labor day 12pm picnic
+memorial day 3pm parade
+independence day 7pm fireworks
+christmas eve 7pm family gathering
+new years day 12pm brunch
+st patricks day 6pm irish pub
+thanksgiving eve 4pm meal prep
+halloween party 8pm-11pm
+christmas morning 7am stockings
+get turkey out of fridge christmas eve
+easter sunday 10am church service
+valentines dinner 6:30pm
+4th of july bbq 4pm-8pm
+buy costume 1 day before halloween
+sun 1pm 1.5hrs photography walk
+every other mon 5pm 1hr book discussion
+tues 11:30am rem 10 mins before presentation
+wed 2pm 2hrs workshop preparation
+every thurs 8pm movie screening
+fri 10am 1hr financial review
+sat 3-5pm home organization
+every third sun 9:30am 2hrs nature walk
+mon 1:30pm re 15 mins before interview
+tues 4pm 1hr project demo
+every wed 7:30pm writing group
+thurs 9:30am 45mins morning briefing
+fri 2-4pm website development
+every other sat 10am 1.5hrs pottery workshop
+sun 5pm rem 25 mins before dinner party
+mon 11am 2hrs research session
+every tues 1pm team building
+wed 6pm 1hr networking event
+thurs 4:30pm re 20 mins before meeting
+fri 8am 45mins morning workout
+sat 1-3pm community service
+wed 1-3pm team strategy meeting
+every other fri 8am breakfast briefing
+tues 5pm 1hr photography outing
+sat 7-9pm movie marathon
+sun 4pm r 20 mins before museum tour
+every mon 11am 1hr book club
+thurs 10-11am virtual exercise
+fri 6pm 1hr dinner party
+every other sun 2pm weekend market visit
+cake baking speedrun 10am 20mins
+every other tues 10am pottery class for 2 hours
+baking workshop 2-330pm tues
+r 25 mins before fri 4pm dentist checkup
+every third sun 1hr 9am tai chi in park
+podcast recording 10-1130am wed
+every other sat r 1hr before 7pm concert
+2hrs sun morning bike repair session 9am
+thurs 3pm 45mins r 10mins before therapy
+monthly book club 1st mon 6:30pm
+10am-12pm every other fri coding mentorship
+re 30mins before sun 8pm 1.5hrs movie marathon
+apartment cleaning 11am-2pm sat
+every wed 7pm 1hr spanish conversation practice
+3hrs tues afternoon 1-4pm client presentations
+re 15mins before mon 9:30am job interview
+every third thurs 6pm 2hrs board game night
+sun morning 8am 45mins re weekly dog grooming
+photography class 4-530pm every other wed
+1hr 10am daily re 5mins before meditation
+sat 9-11am 2hrs farmers market trip
+team brainstorming mon 2-4pm every other week
+3pm fri re 1hr  4pm haircut
+every tues 7:30pm 90mins cooking lessons
+sun 6am 2hrs weekly sunrise hike
+quarterly review 2-3:30pm last fri of month
+1hr 8pm daily rm 15mins  language practice
+thurs 10am-12pm 2hrs co-working session
+every other sun 9am 3hrs garage organization
+re 20m fri 5pm 1hr massage
+mon 3pm weekly 45mins progress sync
+10-11:30am sat remind me every week art class
+tmrw 3pm doctor appointment
+every mon 2p team meeting
+fri 10-6 work shift
+sat 9a gym session
+reminder 15min b4 thurs 7p dinner
+every other wed 230p study group
+sun 1-3p laundry day
+mon 5 project deadline
+tues 11a 30min coffee chat
+every fri 5p happy hour
+thurs 8a 1hr workout
+remind 10min sat 2p movie
+every 3rd sun 9a brunch
+next mon 10a-12p coding
+wed 3p dentist
+every tues 4p 45min yoga
+fri 7p drinks with friends
+sat 9a 2hrs clean house
+sun 8p 1hr read
+tmrw 1p lunch meeting
+every other thurs 6p book club
+mon 8a 30min walk
+tues 2-4p client call
+rem 5m fri 3p interview
+every wed 9a standup
+sat 10a-12p errands
+sun 7p 1.5hrs prep meals
+thurs 11a 45min checkup
+every fri 5p weekend plans
+next tues 2p 1hr meeting
+wkly 7pm mon beer and study at potterow
+every mon 9am at central park morning jog
+tues 2pm @ coffee bean client meeting
+wed 3-5pm in conference room A team workshop
+thurs 6pm at 123 main st dinner party
+every fri 7am @ gym strength training
+sat 10am-12pm at farmers market shopping
+sun 4pm in room 401 study group
+every other mon 8pm @ jazz club live music
+tues 1pm at dental office checkup
+wed 5pm in building B floor 3 yoga class
+thurs 11am @ library quiet work
+every fri 6pm at joe's bar happy hour
+sat 2pm in garden community event
+sun 9am @ track running practice
+every other mon 3pm at home office remote meeting
+tues 7pm in studio 5 dance class
+wed 12pm @ central square lunch meetup
+thurs 4pm at city hall appointment
+every fri 8pm in theater district show
+sat 11am @ botanical gardens photography session
+12/06 machine learning tutorial in AT4.12
+12/3 2pm 1hr team retrospective 
+02.04 1400 remind me 30mins dentist
+03 12 1500-1700 project review
+15/6 1000 1hr client meeting
+09.10 1300 remind me 15mins interview
+21 11 1600-1800 strategy session
+30/4 1100 45mins presentation
+08.09 1400-1600 team building
+17 12 0900 2hrs training
+25/1 1500 1hr performance review
+14.03 1200-1400 conference
+28 07 1700 1hr product demo
+19/8 0800 remind me 45mins meeting
+06.05 1600 1hr design review
+22 10 1000-1200 budget meeting
+13/7 1300 remind me 20mins lunch
+04.11 1500 2hrs workshop
+16 02 0900-1100 planning
+27/5 1400 1hr review
+31 08 1000 remind me 30mins meeting
+team dinner from 6pm til 8:30pm wed
+thurs study session 7pm until 9
+sat 10am start coding till 12:30
+every fri 5pm-7pm happy hour
+mon 3:30p meeting end 4:15
+tues 9a work on project until 11
+remind me 10min  6pm to 7:30p webinar
+every other sun 9am until 11 2hrs yoga
+fri night movies 8pm till 10:30
+tmrw 1p lunch from 1 to 2:30
+thurs 4pm conference call (ends 5:15)
+sat 9am-12pm 3hrs garage sale prep
+every wed 7pm start gym session ends 8:30
+sun brunch 10:30a through 12 noon
+mon 2p client mtg (until 3:15)
+tues 6pm dinner then movie 7-9
+every other fri work 9a till 5p
+thurs 8am-10:30am 2.5hrs deep work
+sat 3pm shopping until 5
+remind 15min  4pm to 5:30 appointment
+every sun 7pm start laundry finish 8:30
+tmrw 9a coffee chat (till 10)
+fri 5pm drinks until 7
+wed 6:30p webinar goes to 8p
+sat 8am hike plan for 3hrs til 11
+every tues 3pm-4:30p team sync
+thurs 7pm movie night from 7 until 9:15
+mon 10a workshop ends 12p
+every other sun 9am-12pm 3hrs gardening
+fri 6pm dinner reservation through 8:30
+3 jan 2pm 1hr project kickoff meeting
+last mon feb 10am budget review session
+every 3rd 9am team sync (monthly)
+3 june 3-5pm summer initiative planning
+4 may 2pm-4pm team offsite
+21 jul 0900 2hrs planning session
+15 aug 13:00 rem 30mins before dentist
+7 oct 3-5p quarterly review
+19 dec 10am 1hr strategy meeting
+2 feb 14:00 rem 15mins before interview
+25 mar 9a-11a training workshop
+11 jun 4pm 45mins project sync
+30 sep 13-15 client meeting
+8 nov 3:00pm rem 1hr before presentation
+13 apr 10-12 budget planning
+27 jan 2p 1.5hrs design review
+aug 9th 7pm remind me 1hr  rooftop BBQ
+dec 2 10am-12pm holiday prep workshop
+every 15th 8am financial review
+last fri mar 2pm Q1 report presentation
+5th nov 9-11am 2hrs conference prep
+july 20th 3pm remind me 30mins  dentist
+every 1st mon 9am all-hands meeting
+oct 31st 4-6pm halloween party setup
+last wed apr 1:30pm 1.5hrs strategy session
+feb 14th 7pm remind me 1hr  dinner reservation
+every 3rd sat 10am-12pm community cleanup
+mar 8th 2-4pm 2hrs international womens day event
+last tues may 11am client quarterly review
+sept 21st 9am 3hrs inventory audit
+every 25th dec 8am family gift exchange
+apr 10th 4pm remind me 15mins  webinar
+jun 15th 10-11:30am 1.5hrs mid-year review
+last sun jan 2pm 2hrs resolution planning
+every 5th 3pm 45mins investor check-in
+nov 11th 8am-5pm veterans day observance
+aug 17th 6pm remind me 2hrs  anniversary dinner
+nov 29 1800 evaluate reports
+every wed 14.00-15.30 team sync
+remind me 20mins  3 jan 16:00 budget review
+last fri mar 09.30-11.00 sprint retrospective
+15th 20.45-22.15 movie night
+every tues 0730 1hr morning run
+dec 24 1300-1500 holiday party prep
+aug 9th 21.00 rem 1hr  live stream
+3 june 10:00-12:30 2.5hrs workshop
+every mon 1530-1700 research meeting
+wed 1200 rem 20mins before lunch talk
+last fri may 0900-1100 quarterly sync
+tues 1400-1530 project planning
+every other thurs 1800 2hrs art class
+sat 1000-1200 weekend workshop
+july 30th 1500 remind me 1hr presentation
+every wed 0900-1030 team training
+sun 1300-1500 cooking session
+first mon 1600 monthly review
+apr 15th 1400 rem 15mins before checkup
+every fri 1730-1900 happy hour
+thurs 1100-1230 sprint demo
+last tues jan 1500 annual planning
+sept 10th 1300 1hr status update
+every other wed 1600-1730 mentorship
+sat 0800 rem 25mins before yoga
+dec 1st 1900-2100 end of year party
+every mon 0700 45mins morning run
+sun 1600-1800 weekly prep
+may 5th 1200 remind me 30mins meeting
+every thurs 1900-2030 dance practice
+fri 1000-1130 skills workshop
+last wed jun 1400 mid-year review
+aug 1st 1500-1700 summer event
+every tues 1300 1hr team catch-up
+sat 1400 rem 10mins before appointment
+oct 20th 1600-1800 project review
+every other mon 0900 morning standup
+thurs 1200-1330 client meeting
+july 5th 1800 remind me 1hr dinner
+every fri 1500-1630 team games
+wed 1400-1530 code sprint
+last sat mar 1100 community meet
+june 20th 1000-1200 summer planning
+every mon 1800 evening yoga
+tues 1100 rem 15mins before call
+sept 15th 1400-1600 team offsite
+every other fri 1700 movie night
+sun 1000-1200 brunch club
+apr 20th 1300 remind me 45mins dentist
+every wed 1500 coffee social
+sat 1600-1800 garden work
+last thurs jul 1400 strategy session
+aug 15th 1900-2100 summer party
+every tues 1000 project sync
+mon 1500 rem 20mins before review
+oct 1st 1400-1600 Q4 planning
+every other sun 1200 lunch meetup
+every fri 17.30-19.00 language exchange
+last sun feb 0800 2hrs hike preparation
+rem 15mins before 5th 1445 doctor appt
+oct 31st 1930-2200 halloween party
+every mon 0830 45mins daily planning
+sat 7-0900 2hrs garage cleanup
+every wed 1600-1730 code review session
+mon 0900 rem 30mins before standup
+last fri apr 1300-1500 quarterly planning
+tues 1100-1230 client presentation
+every other thurs 1900 1.5hrs book club
+3rd sat 0800-1000 community service
+july 15th 1400 remind me 1hr project demo
+every mon 1200-1300 lunch and learn
+sun 1000-1200 meal prep session
+first tues 0830 2hrs strategy meeting
+mar 21st 1500 rem 15mins before dentist
+every fri 1630-1800 team social
+wed 1000-1130 sprint planning
+last thurs feb 1400 annual review
+oct 5th 1300 1hr performance review
+every other mon 1500-1630 mentoring
+sat 1100 rem 20mins before gym class
+dec 15th 1900-2100 holiday dinner
+every tues 0700 45mins morning yoga
+sun 1500-1700 family gathering
+apr 1st 1200 remind me 30mins lunch meeting
+every wed 1830-2000 language class
+fri 0900-1030 training workshop
+last mon mar 1600 budget planning
+aug 25th 1400-1600 team building
+1st apr 3pm memorial service
+23rd jul 10-12 summer planning
+every thurs 1300 1hr project sync
+sat 1000 rem 10mins before haircut
+nov 3rd 1500-1700 conference call
+every other fri 0800 morning briefing
+wed 1200-1330 client lunch
+june 10th 1900 remind me 1hr concert
+every mon 1700-1830 evening workout
+tues 1400-1530 design review
+last sun may 1100 family brunch
+july 1st 1000-1200 summer planning
+every fri 1200 1hr team lunch
+thurs 1600 rem 25mins before meeting
+oct 15th 1400-1600 product launch
+every other wed 1900 movie screening
+sat 0900-1100 house cleaning
+mar 5th 1300 remind me 45mins interview
+every tues 1500 coffee break
+sun 1400-1600 study group
+last fri jun 1000 quarterly review
+aug 12th 1800-2000 dinner party
+every mon 1100 30mins status update
+wed 1500 rem 15mins before doctor
+dec 8th 1400-1600 year-end review
+first thurs 0900 2hrs planning session
+sat 1300-1500 shopping trip
+in 2 days dentist appointment 2pm
+3 days from now team workshop 10am-12pm
+in 1 week project review 9am
+2 weeks today client meeting 3pm
+in 4 days rem 30mins before interview 4pm
+1 week from now training session 1-3pm
+in 5 days coffee catchup 10am
+in 3 days at 10 ice cream date
+in 2 days at 11am dentist appointment
+particle accellerator clinic in 14 days at 9
+3 weeks today performance review 2pm
+in 2hrs quick sync
+in 4hrs team call
+in 6hrs evening class
+in 12hrs early meeting
+in 10 days lunch presentation noon
+5 days from now morning workout 8am
+in 3 weeks quarterly planning 2pm
+2 days from now rem 15mins before doctor 3pm
+in 48hrs dinner reservation
+in 72hrs project deadline
+in 1 month strategy review 1pm
+6 weeks today conference 2pm
+in 4 weeks training day 9am
+2 months from now annual review 3pm
+in 5 days team lunch noon
+1 week today client demo 4pm
+in 3 days morning meeting 8am
+in 36hrs workshop
+in 8 days project kickoff 10am
+2 weeks from now performance check 3:30pm
+in 4 days team sync noon
+external training in 10m
+team standup in 15m
+in 30m client call
+project sync in 45m
+lunch meeting in 90m
+coffee break in 25m 
+code review in 60m
+quick catchup in 20m
+in 40m status update
+presentation starting in 75m
+team check-in in 35m
+in 55m design review
+planning meeting starting in 95m
+interview in 50m
+project demo starting in 65m
+in 80m team building

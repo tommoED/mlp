@@ -1,0 +1,32 @@
+# Regional context
+
+Language: English
+Region: US
+    Tax year: October 1 to September 30
+    Academic year: September to July
+    Date format: MM/DD/YYYY
+    First day of the week: Monday
+    Week ordinal cutoff: December 26
+
+Language: English
+Region: UK
+    Tax year: April 6 to April 5
+    Academic year: September to July
+    Date format: DD/MM/YYYY
+    First day of the week: Monday
+    Week ordinal cutoff: December 29 (ISO 8601)
+
+# Personal context
+
+Language: English
+Region: UK
+Personal Key Dates:
+    Term dates: Monday 17th September 2024 to Friday 20th December 2024
+    School hours: 09:00 to 15:00
+    
+Language: English
+Region: UK
+Personal Key Dates:
+    Fiscal year: 1st April 2024 to 31st March 2025
+
+

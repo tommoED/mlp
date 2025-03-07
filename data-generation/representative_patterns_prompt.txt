@@ -1,0 +1,68 @@
+this is a set of english scheduling phrases in a diverse format, we are trying to generate a representative and exhaustive set of phrasings to describe scheduling expressions used in english. we are considering expressions that could be used in a calendar and todo list applications chiefly, but would extend to include documents, emails, text messages, and booking reciepts. consider the following examples, and suggest novel extensions.
+
+
+every mon 9am
+fri 3pm rem 15 mins before
+every other sat 10-12pm
+thurs 1:30pm 1.5hrs
+wed 1-4pm 3hrs
+every third fri 4pm rem 1hr before
+sat 10am re 20 mins before
+wed 1-4pm 3hrs
+10am 20mins
+1st mon 6:30pm
+from 6pm til 8:30pm wed
+daily 8am
+3 jan 2pm 1hr
+last mon feb 10am
+every 15th 8am
+aug 9th 7pm remind me 1hr
+2-3:30pm last fri of month
+tom noon
+tmrw 3pm
+15min b4 thurs 7p
+mon 5
+next mon 10a-12p
+wkly 7pm mon
+thurs 7pm until 9
+every fri 5pm-7pm
+tues 9a until 11
+nov 29 1800
+every wed 14.00-15.30
+15th 20.45-22.15
+dec 24 1300-1500
+last sun feb 0800 2hrs
+every mon 9am
+fri 3pm rem 15 mins before
+every other sat 10-12pm
+thurs 1:30pm 1.5hrs
+every tues 11am 30mins
+sun 9am-12pm 3hrs
+every third fri 4pm rem 1hr before
+next wed 3pm 1hr
+next jul 4 7pm
+halloween 6pm
+christmas morning 7am
+10am 20mins
+1st mon 6:30pm
+2-3:30pm last fri of month
+tmrw 3pm
+wkly 7pm mon
+12/06
+from 6pm til 8:30pm wed
+3 jan 2pm 1hr
+last fri of june re 1pm
+last mon feb 10am
+aug 9th 7pm remind me 1hr
+nov 29 1800
+first mon 1600
+in 2 days 2pm
+in 4hrs
+in 10m
+every mon 0700 45mins
+remind me 20mins 3 jan 16:00
+every wed 14.00-15.30
+fri night 8pm till 10:30
+every tues unless 1st week of month
+monthly except feb 14 to 18
+every 20 minutes from 3 to 4
