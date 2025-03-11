@@ -1,0 +1,196 @@
+every mon 9am
+DTSTART:DTREF + relativedelta(weekdays = MO) + relativedelta(hour = 9)
+RRULE:FREQ=WEEKLY;BYDAY=MO
+
+fri 3pm rem 15 mins before
+DTSTART:{DTREF + relativedelta(weekdays = FR, hour = 15)}
+VALARM:TRIGGER=-PT15M;ACTION=DISPLAY
+
+every other sat 10-12pm
+DTSTART:{DTREF + relativedelta(weekdays = SA, hour = 10)}
+DTEND:{DTREF + relativedelta(weekdays = SA, hour = 12)}
+RRULE:FREQ=WEEKLY;BYDAY=SA;INTERVAL=2
+
+
+thurs 1:30pm 1.5hrs
+DTSTART:{DTREF + relativedelta(weekdays = TH, hour = 13, minute = 30)}
+DURATION:PT1H30M
+
+wed 1-4pm 3hrs
+DTSTART:{DTREF + relativedelta(weekdays = WE, hour = 9)}
+DURATION:PT3H
+RRULE:FREQ=WEEKLY;BYDAY=WE
+
+every third fri 4pm rem 1hr before
+DTSTART:{DTREF + relativedelta(weekdays = FR, hour = 16)}
+ALARM:TRIGGER=-PT1H;ACTION=DISPLAY
+RRULE:FREQ=WEEKLY;BYDAY=FR;INTERVAL=3
+
+sat 10am re 20 mins before
+DTSTART:{DTREF + relativedelta(weekdays = SA, hour = 10)}
+ALARM:TRIGGER=-PT20M;ACTION=DISPLAY
+
+wed 1-4pm
+DTSTART:{DTREF + relativedelta(weekdays = WE, hour = 13)}
+DTEND:{DTREF + relativedelta(weekdays = WE, hour = 16)}
+
+10am 20mins
+DTSTART:{DTREF + relativedelta(weekdays = MO, hour = 10)}
+DURATION:PT20M
+
+
+1st mon of feb 6:30pm
+DTSTART:{DTREF + relativedelta(weekday = MO(+1), month = 2, hour = 18, minute = 30)}
+
+
+2nd mon of july 10:30pm
+DTSTART:{DTREF + relativedelta(weekday = MO(+2), month = 7, hour = 22, minute = 30)}
+
+
+next wed 3pm 1hr
+DTSTART:{DTREF + relativedelta(weekdays = WE(+2 if today.weekday() < WEDNESDAY else +1), hour = 15)}
+DURATION:PT1H
+
+next thu morning
+DTSTART:{DTREF + relativedelta(weekdays = TH(+2 if today.weekday() < THURSDAY else +1), hour = 9)}
+
+thu 1w from now 10am
+DTSTART:{DTREF + relativedelta(weekdays = TH(+2 if today.weekday() < THURSDAY else +1), hour = 10)}
+
+mon 2w from now 1:45
+DTSTART:{DTREF + relativedelta(weekdays = MO(+2 if today.weekday() < MONDAY else +1), hour = 13, minute = 45)}
+
+sat 3w from now 11:30
+DTSTART:{DTREF + relativedelta(weekdays = SA(+3 if today.weekday() < SATURDAY else +2), hour = 11, minute = 30)}
+
+
+from 6pm til 8:30pm wed
+DTSTART:{DTREF + relativedelta(weekdays = WE, hour = 18)}
+DTEND:{DTREF + relativedelta(weekdays = WE, hour = 20, minute = 30)}
+
+3 jan 2pm 1hr
+DTSTART:{DTREF + relativedelta(day = 3, month = 1, hour = 14)}
+DURATION:PT1H
+
+last mon feb 10am
+DTSTART:{DTREF + relativedelta(weekdays = MO(-1), month = 2, hour = 10)}
+
+
+every 15th 8am
+DTSTART:{DTREF + relativedelta(day = 15, hour = 8)}
+
+aug 9th 7pm remind me 1hr
+DTSTART:{DTREF + relativedelta(day = 9, month = 8, hour = 19)}
+ALARM:TRIGGER=-PT1H;ACTION=DISPLAY
+
+2-3:30pm last fri of month
+DTSTART:{DTREF + relativedelta(weekdays = FR(-1), hour = 15, minute = 30)}
+
+tom noon
+DTSTART:{DTREF + relativedelta(hour = 12)}
+
+tmrw 3pm
+DTSTART:{DTREF + relativedelta(hour = 15)}
+
+15min b4 thurs 7p
+DTSTART:{DTREF + relativedelta(weekdays = TH(-1), hour = 19)}
+ALARM:TRIGGER=-PT15M;ACTION=DISPLAY
+
+mon 5
+DTSTART:{DTREF + relativedelta(weekdays = MO, hour = 5)}
+
+next mon 10am-12pm
+DTSTART:{DTREF + relativedelta(weekdays = MO(+1 if today.weekday() < MONDAY else +2), hour = 10)}
+DTEND:{DTREF + relativedelta(weekdays = MO(+1 if today.weekday() < MONDAY else +2), hour = 12)}
+
+wkly 7pm mon
+DTSTART:{DTREF + relativedelta(weekdays = MO, hour = 19)}
+
+thurs 7pm until 9
+DTSTART:{DTREF + relativedelta(weekdays = TH, hour = 19)}
+DTEND:{DTREF + relativedelta(weekdays = TH, hour = 21)}
+
+every fri 5pm-7pm
+tues 9a until 11
+nov 29 1800
+every wed 14.00-15.30
+15th 20.45-22.15
+dec 24 1300-1500
+last sun feb 0800 2hrs
+every mon 9am
+fri 3pm rem 15 mins before
+every other sat 10-12pm
+thurs 1:30pm 1.5hrs
+every tues 11am 30mins
+sun 9am-12pm 3hrs
+every third fri 4pm rem 1hr before
+next wed 3pm 1hr
+next jul 4 7pm
+halloween 6pm
+christmas morning 7am
+10am 20mins
+1st mon 6:30pm
+2-3:30pm last fri of month
+tmrw 3pm
+wkly 7pm mon
+12/06
+from 6pm til 8:30pm wed
+3 jan 2pm 1hr
+last fri of june re 1pm
+last mon feb 10am
+aug 9th 7pm remind me 1hr
+nov 29 1800
+first mon 1600
+in 2 days 2pm
+in 4hrs
+in 4h10m
+every mon 0700 45mins
+remind me 20mins 3 jan 16:00
+every wed 14.00-15.30
+fri night 8pm till 10:30
+every second tuesday 2pm
+biweekly wed 1400
+third saturday of each month 9-11
+daily at midnight
+2 days after tomorrow 3:45pm
+4 days from friday 11:30
+in 3 days at 11:30
+12/31 2359
+15mins past every hour 9-5
+quarterly on first mon after full moon
+fri night 20:00 until 22:00, starting next week
+monthly on the 1st and 15th 10am
+all day july 4th
+2 weeks on Monday at 0900
+last Friday of the month at 1600
+next business day at 10am
+15 mins before 10/15 launch event at 1100
+every mon wed fri 8am except public holidays
+first Friday of every month at sunset
+starting 3/1, every other day at 7pm for 5 times
+every mon wed fri at 8am except bank holidays
+this weekend 1:30-4pm
+15mins past every hour 9-5pm
+15m past the hour from 9-5pm
+noon every weekday except fridays
+noon every weekday minus fridays
+mon-thu 10am-12pm
+monthly on 15th skip december
+daily for 2 weeks skip weekends
+biweekly tuesdays
+last workday before christmas
+1st full week of january
+late tues morning
+early afternoon wed
+9am CET
+8pm EST daily
+1200 madrid time
+2 days before fiscal year end
+1 day after new tax yr
+45min blocks every 2hrs from 8 to 6pm sunday
+1hr slots between 2-4pm
+10min pomodoros from 9am
+12 minutes before midnight
+daily for 1 month before eid
+january fridays 10am-12pm
+second monday of july

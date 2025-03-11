@@ -61,6 +61,7 @@ The following is as near a comprehensive list of supportable expressions for the
 - "next week friday 445pm"
  > following friday from reference date
 - "in 2 days", "in 2 days time", "2d from now", "in 2d"
+- "in {x} days": days=REF+x
  > 2 days from reference date
 - "tomorrow at 4pm", "tomorrow 4pm", "tom 4pm", "tmr 4pm", "tmrw 4pm", "in 1d 4pm"
  > immediate following day from reference date

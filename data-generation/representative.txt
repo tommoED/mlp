@@ -55,7 +55,7 @@ nov 29 1800
 first mon 1600
 in 2 days 2pm
 in 4hrs
-in 10m
+in 4h10m
 every mon 0700 45mins
 remind me 20mins 3 jan 16:00
 every wed 14.00-15.30
